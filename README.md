@@ -12,8 +12,8 @@ com a projeção dos 12 primeiros meses de contrato.
 
 ## Como executar
 ```bash
-git clone <link-do-seu-repositorio>
-cd rentsmart
+git clone https://github.com/gsilva44/Projeto-Algorithmic.git
+cd Projeto-Algorithmic
 python main.py
 ```
 Responda às perguntas no terminal. Ao final, o orçamento aparece na tela e o arquivo
